@@ -58,10 +58,10 @@ border-bottom: solid black 1px;
 
 .text{
   box-sizing: border-box;
-  color:#ffffff;
-  text-shadow: 0.1em 0.1em 0.2em black;
+  color:black;
+  text-shadow: 0.1em 0.1em 0.2em white;
   border: solid black 2px;
-  background-color:#ff8cc7;
+  background-color:#FFC1E0;
   width:1000px;
   height:550px;
   text-align: center;
@@ -78,12 +78,11 @@ border-bottom: solid black 1px;
   background-color:#ffe3f9;
 }
 
-#photo{
+#photo{ 
   box-shadow: 1px 1px 10px 1px;
-  width: 15%;
+  width: 60%;
   background-color:#ffe3f9;
-  margin-left:15px;
-  margin-right:15px;
+  margin-left:55px;
 }
 
 .introduction{
